@@ -1,0 +1,33 @@
+{
+  "name": "MeoW-Push",
+  "author": "ShiShiBits",
+  "url": "https://github.com/ShiShiBits1/SiYuan-MeoW-Push",
+  "version": "0.0.1",
+  "minAppVersion": "2.10.14",
+  "disabledInPublish": false,
+  "backends": [
+    "all"
+  ],
+  "frontends": [
+    "all"
+  ],
+  "displayName": {
+    "default": "MeoW Push",
+    "en_US": "MeoW Push",
+    "zh_CN": "MeoW 推送"
+  },
+  "description": {
+    "default": "MeoW Push and Broadcast Plugin",
+    "en_US": "MeoW Push and Broadcast Plugin",
+    "zh_CN": "MeoW 推送和广播插件"
+  },
+  "readme": {
+    "default": "README.md",
+    "en_US": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "custom": []
+  },
+  "keywords": ["push", "broadcast", "MeoW"]
+}
