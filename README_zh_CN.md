@@ -1,6 +1,6 @@
 # MeoW 推送与广播插件
 
-[English](./README.md)
+[English](https://github.com/ShiShiBits1/SiYuan-MeoW-Push/blob/main/README.md)
 
 一个为 SiYuan 笔记开发的 MeoW 推送和广播功能插件。
 
