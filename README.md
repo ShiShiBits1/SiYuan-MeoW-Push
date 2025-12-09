@@ -1,6 +1,6 @@
 # MeoW Push & Broadcast Plugin
 
-[简体中文](./README_zh_CN.md)
+[简体中文](https://github.com/ShiShiBits1/SiYuan-MeoW-Push/blob/main/README_zh_CN.md)
 
 A plugin for SiYuan Notes that enables MeoW push and broadcast functionality.
 
